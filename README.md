@@ -1,4 +1,6 @@
-Supreme Court Petition Classification
+**Supreme Court Petition Classification**
+
+
 This project classifies Supreme Court certiorari petitions by their Spaeth categorization (a set of 13 issue areas defined in the Spaeth Supreme Court Database). It uses Google Word2Vec embeddings to represent the text of each petition and applies classic tree-based models (e.g., Random Forests, XGBoost) to categorize the petitions.
 
 Key Features
